@@ -1,4 +1,4 @@
-### FirmAExtractor
+# FirmAExtractor
 The extractor of FirmAE with little changes.
 
 ## Usage Example
